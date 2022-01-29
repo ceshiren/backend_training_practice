@@ -1,0 +1,6 @@
+## 进行数据库的配置
+database:
+  username: root
+  password: 123456
+  server: "x.x.x.x:3366"
+  db: hogwarts
